@@ -1,0 +1,23 @@
+.last-table td {
+    padding: 15px;
+   
+   
+  
+    
+}
+.secondlast td{
+padding: 15px;
+
+    
+}
+.main-table td{
+    text-align: center;
+   
+
+}
+.hide{
+    empty-cells: hide;
+}
+h1 {
+    font-size: 60px;
+}
